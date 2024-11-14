@@ -3,6 +3,7 @@ const readline = require('readline');
 const fetch = require('node-fetch');
 const chalk = require('chalk');
 const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
+console.log(":/");
 const R = chalk.red;
 const G = chalk.green;
 const B = chalk.blue;
