@@ -54,9 +54,11 @@ The script will then generate random values and send a simulated password reset 
 ### 4. Output:
 The script will print the result of the password reset attempt to the console. If the request is successful or contains relevant information, it will be displayed.
 
-## Important Notes
-- **Educational Purposes Only**: This code is for educational purposes and should not be used to attempt unauthorized access to Instagram accounts or any other services.
-- **Ethical Considerations**: Ensure you have permission to use this script, especially if testing on live accounts. Do not use this for malicious purposes.
+## Copyright
+
+© 2024 raynex. All rights reserved.
+
+All files in this repository, unless otherwise noted, are released under the MIT License. By using, distributing, or modifying this code, you acknowledge the copyright holder's rights and agree to retain this copyright notice in any redistribution.
 
 ## Important Notes
 - **Educational Purposes Only**: This code is for educational purposes and should not be used to attempt unauthorized access to Instagram accounts or any other services.
