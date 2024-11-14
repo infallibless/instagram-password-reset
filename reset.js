@@ -7,7 +7,7 @@ const R = chalk.red;
 const G = chalk.green;
 const B = chalk.blue;
 const Y = chalk.yellow;
-console.log(":/")
+console.log(":/");
 console.log(R("red"));
 console.log(G("green"));
 console.log(B("blue"));
