@@ -32,7 +32,7 @@ Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/infalibless/instagram-password-reset.git
-cd instagram-password-reset-simulation
+cd instagram-password-reset
 ```
 
 ### 2. Run the script:
