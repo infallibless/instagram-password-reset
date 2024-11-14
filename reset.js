@@ -1,6 +1,5 @@
 const crypto = require('crypto');
 const readline = require('readline');
-const fetch = require('node-fetch');
 const chalk = require('chalk');
 const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
 const R = chalk.red;
